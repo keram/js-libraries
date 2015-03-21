@@ -1,0 +1,1 @@
+Vyber subjektivne najlepsej js knihovny na zaklade vytvoru jednoduchych prikladov pomocou kazdej knihovny.
